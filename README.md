@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Cherie
+
+I'm currently a senior at Columbia studying Computer Science and Operations Research!
+I have taken a wide variety of courses at school, like AI, Computer Vision, and Distributed Systems, and I have previously interned at eBay and at Facebook/Meta (x2).
+
+⚡ Fun fact: I crocheted the Harry Styles cardigan last summer!
 
 <!--
 **cherieliu/cherieliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
