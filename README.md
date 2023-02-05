@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Cherie
 
+[![](https://img.shields.io/badge/-linkedin-ff69b4)](https://www.linkedin.com/in/cherie-liu/)
+
 I'm currently a senior at Columbia studying Computer Science and Operations Research!
 I have taken a wide variety of courses at school, like AI, Computer Vision, and Distributed Systems, and I have previously interned at eBay and at Facebook/Meta (x2).
 
